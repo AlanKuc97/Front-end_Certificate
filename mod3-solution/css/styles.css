@@ -1,0 +1,36 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+/*HEADER START*/
+#nav-list{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#nav-list a {
+  /*text-align: center;*/
+  border: 1px solid black;
+}
+#nav-list :nth-child(2) a{
+	border-top:none;
+	border-bottom:none;
+}
+#nav-list a:hover {
+  background: #FFF;
+}
+button{
+	margin-top: 10px;
+}
+/*HEADER END*/
+.row{
+	color:black;
+}
+.title{
+	margin-bottom: 5%;
+}
+.column{
+	background-color: #f8f8f8;
+	padding: 10px 20px;
+}
+
